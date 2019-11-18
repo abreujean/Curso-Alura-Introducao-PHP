@@ -1,1 +1,1 @@
-Curso da aulura sobre os conceitos basicos da linguagem PHP.
+Curso da Alura sobre os conceitos basicos da linguagem PHP.
